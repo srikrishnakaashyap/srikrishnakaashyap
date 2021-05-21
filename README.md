@@ -21,9 +21,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/krishna-kaashyap/" target="blank"><img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" alt="https://www.linkedin.com/in/krishna-kaashyap/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/krishna-kaashyap/" target="blank"><img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" alt="https://www.linkedin.com/in/krishna-kaashyap/" height="30" width="40" /></a>
 <a href="https://medium.com/@mskrishna.kaashyap" target="blank"><img align="center" src="https://raw.githubusercontent.com/ionic-team/ionicons/8c2a507fcff2cb5f2edff60357ffd7feb70bb987/src/svg/logo-medium.svg" alt="@mskrishna.kaashyap" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/kaashyapmsk/" target="blank"><img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/2f55a5696c3df837997fe19722954c5c52b0e8cc/icons/leetcode.svg" alt="https://leetcode.com/kaashyapmsk/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/kaashyapmsk/" target="blank"><img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/2f55a5696c3df837997fe19722954c5c52b0e8cc/icons/leetcode.svg" alt="https://leetcode.com/kaashyapmsk/" height="30" width="40" /></a>
 </p>
 
 
