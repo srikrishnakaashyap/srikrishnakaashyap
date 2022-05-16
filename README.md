@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kaashyap</h1>
 <h3 align="center">A passionate Backend developer from India with experience in building scalable RESTful API's and backend systems. I am always open to collaborate with you to work on an impactful project.</h3>
 
-- 🔭 I’m currently working **at Acceleron Corp as Software Engineer.**
+- 🔭 I’m currently pursuing my Masters in **Computer Science at Rutgers University.**
 
 - 🌱 I’m currently learning **Socket.io, Building scalable backend systems, Dynamic Programming & Recursion**
 
