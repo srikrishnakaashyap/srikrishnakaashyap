@@ -5,7 +5,7 @@
 
 I work on search for Bloomberg's two communication products, **IB** (chat) and **MSG** (mail), and on bringing them into **ASKB**, the Terminal's agentic AI assistant.
 
-- Shipped **IB in ASKB**, an agentic search plugin, from pilot to production
+- Shipped **IB in ASKB**, an agentic search and summarization plugin, from pilot to production
 - Cut search latency **22×** with embedding quantization (fp32 → int8) and Matryoshka truncation (1024 → 256 dims), reaching **93% Recall@150** on a human-labeled set
 - Built evaluation pipelines for retrieval quality and for named-entity recognition during chat ingestion
 - Extending the same system to MSG, with vector search on Solr
